@@ -10,19 +10,48 @@ To develop a Power BI dashboard that helps **AirPure Innovations** make data-dri
 ## 📊 [Live Dashboard](https://app.powerbi.com/groups/me/reports/14c471a6-4f46-44d3-b9cd-c969c390c30c/4d816c015015a3000e1a?experience=power-bi)
 ---
 
-## 📊 Dashboard Highlights
+## Main Dashboard
+<p align="center">
+    <img src="https://github.com/Jayu1901/AQI-Market-Research-Analytics/blob/main/Images/Main%20Page.png" width="600">
+</p>
 
-- **🏠 Home Page**  
-  Easy navigation to all dashboards.
 
-- **🌍 Air Quality Dashboard**  
-  Tracks AQI data over the selected time range.
+## Air Quality Dashboard
 
-- **📉 Impact Analysis Dashboard**  
-  Measures health and environmental metrics based on pollution and EV adoption across India.
+<p align="center">
+    <img src='https://github.com/Jayu1901/AQI-Market-Research-Analytics/blob/main/Images/Air%20Quality%20Dashboard.png' height="400">
+</p>
 
-- **📈 Executive Dashboard**  
-  Summarized view with top-level insights for key stakeholders.
+
+## Severity Mapping
+
+<p align="center">
+    <img src='https://github.com/Jayu1901/AQI-Market-Research-Analytics/blob/main/Images/Severity%20Mapping.png' width="600">
+</p>
+
+## Health Impact Correlation
+
+<p align="center">
+    <img src='https://github.com/Jayu1901/AQI-Market-Research-Analytics/blob/main/Images/Health%20Impact%20Correlation.png' width="600">
+</p>
+
+## Vehicle And Pollution Analysis
+
+<p align="center">
+    <img src='https://github.com/Jayu1901/AQI-Market-Research-Analytics/blob/main/Images/Vehicle%20And%20Pollution%20Analysis.png' width="600">
+</p>
+
+## Primary Analysis
+
+<p align="center">
+    <img src='https://github.com/Jayu1901/AQI-Market-Research-Analytics/blob/main/Images/Primary%20Analysis.png' width="600">
+</p>
+
+## Secondary Analysis
+
+<p align="center">
+    <img src='https://github.com/Jayu1901/AQI-Market-Research-Analytics/blob/main/Images/Secondary%20Analysis.png' width="600">
+</p>
 
 ---
 
