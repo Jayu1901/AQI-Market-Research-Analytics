@@ -19,7 +19,7 @@ To develop a Power BI dashboard that helps **AirPure Innovations** make data-dri
 ## Air Quality Dashboard
 
 <p align="center">
-    <img src='https://github.com/Jayu1901/AQI-Market-Research-Analytics/blob/main/Images/Air%20Quality%20Dashboard.png' height="400">
+    <img src='https://github.com/Jayu1901/AQI-Market-Research-Analytics/blob/main/Images/Air%20Quality%20Dashboard.png' width="600">
 </p>
 
 
