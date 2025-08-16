@@ -7,7 +7,7 @@
 To develop a Power BI dashboard that helps **AirPure Innovations** make data-driven decisions based on data provided by **Dataful** for the period **2022 to 2025**.
 
 ---
-## 📊 [Live Dashboard](https://app.powerbi.com/groups/me/reports/14c471a6-4f46-44d3-b9cd-c969c390c30c/4d816c015015a3000e1a?experience=power-bi)
+## 📊 [Live Dashboard](https://app.powerbi.com/links/zrktsO_-d-?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 ---
 
 ## Main Dashboard
